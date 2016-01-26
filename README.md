@@ -3,11 +3,13 @@ Animation-WB-Examples
 
 Examples for the Animation workbench
 
-These are the example files for
+The examples/testcases switch to be writen with miki.
+
+To run them with miki  the geodat workbench must be installed to.
+https://github.com/microelly2/geodata
 
 
-Because the workbench is at a very beginnig state the examples can loose compatibility to the head version.
-There will be a migration method to update older freecad files.
+
 
 For details see my website  http://freecadbuch.de/doku.php?id=animation_wokbench
 
